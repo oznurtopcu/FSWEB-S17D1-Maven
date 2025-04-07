@@ -12,14 +12,4 @@ public class FswebS17d1Application {
 		System.out.println("Hello world!");
 	}
 
-//	@Bean
-//	public int getId() {
-//		return 1;
-//	}
-//
-//	@Bean
-//	public String getName() {
-//		return "sincap";
-//	}
-
 }
